@@ -7,3 +7,4 @@ requests
 joblib
 beautifulsoup
 tldextract
+pickle
